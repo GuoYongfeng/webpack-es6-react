@@ -1,0 +1,29 @@
+{
+  "name": "webpack-es6-react",
+  "version": "0.0.1",
+  "homepage": "https://github.com/GuoYongfeng/webpack-es6-react",
+  "authors": [
+    "guoyongfeng <296512521@qq.com>"
+  ],
+  "description": "react",
+  "main": "app/main.js",
+  "keywords": [
+    "react",
+    "bower",
+    "webpack",
+    "rctui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
