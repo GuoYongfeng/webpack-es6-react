@@ -1,5 +1,5 @@
 'use strict';
-var component = require('./component/Component.js');
 
+import Components from './components/Component.js'
 
-document.body.appendChild(component());
+console.log(Components);
