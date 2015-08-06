@@ -2,4 +2,4 @@
 
 import ReactUI from 'rctui';
 
-export var ReactUI.Table;
+export ReactUI; 
